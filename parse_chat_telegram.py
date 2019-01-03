@@ -2,7 +2,6 @@ from pyquery import PyQuery
 from collections import Counter
 import pandas as pd
 
-	
 data = []
 for i in range(1,78):
 	print('Parsing a file - messages'+str(i)+'.html')
